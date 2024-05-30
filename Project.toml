@@ -3,6 +3,10 @@ uuid = "a29d42f4-daac-439b-94bb-e89957b59d15"
 authors = ["Mitchell Harris"]
 version = "1.0.0-DEV"
 
+[deps]
+DynamicPolynomials = "7c1d4256-1411-5781-91ec-d7bc3513ac07"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
 [compat]
 julia = "1.6.7"
 
