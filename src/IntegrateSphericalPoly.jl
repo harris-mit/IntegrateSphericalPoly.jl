@@ -1,5 +1,7 @@
 module IntegrateSphericalPoly
 
-# Write your package code here.
+include("utils.jl")
+
+export integrate
 
 end
